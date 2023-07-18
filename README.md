@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Grover</h1>
-<h3 align="center">A passionate problem solver and a computer science graduate from the Pennsylvania State University</h3>
+<p align="center">A passionate problem solver and a computer science graduate from the Pennsylvania State University</p>
 
 - 🔭 I’m currently working on RevNinja a Shopify review importer app
 
