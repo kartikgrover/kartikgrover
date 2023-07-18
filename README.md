@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kartik Grover</h1>
-<p align="center">A passionate problem solver and a computer science graduate from the Pennsylvania State University</p>
+<p align="center">A passionate problem solver and a computer science graduate from the Pennsylvania State University. With my skills in full-stack development and a passion for cutting-edge tech, I'm keen on joining forces to build impactful solutions that make a difference in the world.
+</p>
 
 - 🔭 I’m currently working on RevNinja a Shopify review importer app
 
 - 🌱 I’m currently learning react and nodejs
 
-- 🤝 I’m looking to collaborate on exciting projects that push the boundaries of technology and problem-solving. With my skills in full-stack development and a passion for cutting-edge tech, I'm keen on joining forces to build impactful solutions that make a difference in the world.
-
+- 🤝 I’m looking to collaborate on exciting projects that push the boundaries of technology and problem-solving. 
 - 📫 Reach me at groverkartik2000@yahoo.com
 
 <p align="left">
